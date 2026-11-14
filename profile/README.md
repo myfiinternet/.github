@@ -13,6 +13,7 @@ Hizmet uygunluğu, kullanılabilecek altyapı ve bağlantı seçenekleri adrese 
 ## Resmî bağlantılar ve iletişim
 
 - [MyFi web sitesi](https://www.myfi.com.tr/)
+- [MyFi Business — kurumsal hizmet bilgileri](https://myfibusiness.com.tr/)
 - [MyFi LinkedIn şirket sayfası](https://www.linkedin.com/company/myfi-i%CC%87nternet/)
 - [İletişim bilgileri](https://www.myfi.com.tr/iletisim/)
 - **E-posta:** myfi@myfi.com.tr
